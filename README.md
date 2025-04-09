@@ -37,7 +37,7 @@ The Ping Pong Game is a two-player arcade game where each player controls a padd
 
 ## Lessons Learned
 
-This project helped reinforce my understanding of:
+Project helped reinforce my understanding of:
 
 - **Class Inheritance & Object Interaction**: Creating multiple classes that interact cleanly
 - **Real-Time Game Loops**: Handling continuous updates and smooth movement using `screen.update()` and `time.sleep()`
